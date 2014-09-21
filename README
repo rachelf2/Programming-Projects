@@ -1,0 +1,3 @@
+README
+
+This repository contains several projects. The remotecontroller and worker files are written in OCaml and are part of a project to program map reduce. The bot and game projects are also written in OCaml and are part of a project to program Settlers of Catan. The extracttranscript file is written in python and is used to extract a transcript from a website and tag the parts of speech. The KNN file is written in Matlab and is used to classify grid locations based off of a 3-Nearest Neighbor algorithm. 
